@@ -132,10 +132,6 @@ body {
     transition: 0.3s;
   }
   
-  .login-form .social-icons a:hover {
-    color: orange;
-  }
-  
   /* Navigation bar */
   .navbar {
     display: flex;
